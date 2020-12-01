@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-size: 14px;
+}
+
+.stepper-container-horizontal{
+  border: 1px solid lightsalmon;
+  border-radius: 3px;
+  margin: 40px auto;
+  box-shadow: 0 0 13px #111;
+  padding: 30px;
+  width: 60%;
+}
+.stepper-container-vertical{
+  border: 1px solid lightsalmon;
+  border-radius: 3px;
+  margin: 40px auto;
+  box-shadow: 0 0 13px #111;
+  padding: 30px;
+  width: 20%;
+}
+
